@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'queries/3357849'
+      - 'queries/ecb_bitcoin_index_(materialize___3357849.sql'
 
 jobs:
   build:
