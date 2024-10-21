@@ -3,7 +3,7 @@
 -- query link: https://dune.com/queries/3357849
 
 -- Materialized in dune.adcv.result_ecb_bitcoin_index
--- Testing push from gh
+-- Testing push from gh | Test 2
 
 WITH 
 
