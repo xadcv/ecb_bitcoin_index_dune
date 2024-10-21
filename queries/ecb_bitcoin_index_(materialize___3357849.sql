@@ -1,7 +1,7 @@
 -- part of a query repo
 -- query name: ECB Bitcoin Index (Materialized View)
 -- query link: https://dune.com/queries/3357849
--- Testing push from gh
+
 
 -- Materialized in dune.adcv.result_ecb_bitcoin_index
 
@@ -280,4 +280,5 @@ ORDER BY period DESC
 --                                      -#@@@@@@@@@@#:                                      
 --                                        -#@@@@@%*:                                        
 --                                           .::.                                           
+-- @steakhouse on Dune
 -- @steakhouse on Dune
